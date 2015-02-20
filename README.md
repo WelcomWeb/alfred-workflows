@@ -15,3 +15,4 @@ You will get autocomplete suggestions as you type.
 
 ![Using 'subl'](https://raw.githubusercontent.com/WelcomWeb/alfred-workflows/master/assets/using-subl.png)
 
+**Note!** This requires Sublime Text 2 to be installed at the default location, i.e. "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl".
