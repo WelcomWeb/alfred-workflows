@@ -5,7 +5,7 @@ A simple workflow to quickly open Sublime Text 2 with a project folder
 
 First, set up your root project folder. As an example I have most projects under `~/Development/Projects` so I set as;
 
-    ![Setting up 'subl'](https://github.com/WelcomWeb/alfred-workflows/assets/setting-up-subl.png)
+![Setting up 'subl'](https://raw.githubusercontent.com/WelcomWeb/alfred-workflows/master/assets/setting-up-subl.png)
 
 Now Alfred can quickly access your projects, and you can open them with Sublime Text 2 by running
 
@@ -13,5 +13,5 @@ Now Alfred can quickly access your projects, and you can open them with Sublime 
 
 You will get autocomplete suggestions as you type.
 
-    ![Using 'subl'](https://github.com/WelcomWeb/alfred-workflows/assets/using-subl.png)
+![Using 'subl'](https://raw.githubusercontent.com/WelcomWeb/alfred-workflows/master/assets/using-subl.png)
 
