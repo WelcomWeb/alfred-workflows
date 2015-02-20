@@ -1,9 +1,9 @@
 # A collection of Alfred2 Workflows
 
 ## Sublime Text 2 ([Download Workflow](https://github.com/WelcomWeb/alfred-workflows/raw/master/sublime-text-2/sublime-text-2.alfredworkflow))
-A simple workflow to quickly open Sublime Text 2 with a project folder
+A simple workflow to quickly open Sublime Text 2 with a project folder.
 
-First, set up your root project folder. As an example I have most projects under `~/Development/Projects` so I set as;
+First, set up your root project folder. As an example I have most projects under `~/Development/Projects` so I set it as;
 
 ![Setting up 'subl'](https://raw.githubusercontent.com/WelcomWeb/alfred-workflows/master/assets/setting-up-subl.png)
 
