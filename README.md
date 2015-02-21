@@ -34,3 +34,15 @@ You will get autocomplete suggestions as you type.
 ![Using 'subl'](https://raw.githubusercontent.com/WelcomWeb/alfred-workflows/master/assets/using-subl.png)
 
 **Note!** This requires Sublime Text 3 to be installed at the default location, i.e. "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl".
+
+
+## VirtualBox ([Download Workflow](https://github.com/WelcomWeb/alfred-workflows/raw/master/virtualbox/virtualbox.alfredworkflow))
+Start (with or without GUI), power off or save state for your virtual machines.
+
+> `vb` lists and starts a machine
+
+> `vb-hl` lists and starts a machine without GUI
+
+> `vb-poweroff` lists running machines and shutsdown a machine
+
+> `vb-state` lists running machines and saves a machines state
