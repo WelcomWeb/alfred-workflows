@@ -46,3 +46,10 @@ Start (with or without GUI), power off or save state for your virtual machines.
 > `vb-poweroff` lists running machines and shutsdown a machine
 
 > `vb-state` lists running machines and saves a machines state
+
+## VMWare Fusion ([Download Workflow](https://github.com/WelcomWeb/alfred-workflows/raw/master/vmware-fusion/vmware-fusion.alfredworkflow))
+Start or stop a VMWare virtual machine
+
+> `vm` lists and starts a machine
+
+> `vm-stop` lists running machines and stops a machine
