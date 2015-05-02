@@ -15,6 +15,10 @@ You will get autocomplete suggestions as you type.
 
 ![Using 'subl'](https://raw.githubusercontent.com/WelcomWeb/alfred-workflows/master/assets/using-subl.png)
 
+You can also open a custom path, of course;
+
+![Custom path](https://raw.githubusercontent.com/WelcomWeb/alfred-workflows/master/assets/custom-path-subl.png)
+
 **Note!** This requires Sublime Text 2 to be installed at the default location, i.e. "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl".
 
 
@@ -29,7 +33,7 @@ Now Alfred can quickly access your projects, and you can open them with Sublime 
 
     subl <PROJECT NAME>
 
-You will get autocomplete suggestions as you type.
+You will get autocomplete suggestions as you type. And as with the Sublime Text 2 workflow, you can open a custom path.
 
 ![Using 'subl'](https://raw.githubusercontent.com/WelcomWeb/alfred-workflows/master/assets/using-subl.png)
 
@@ -37,7 +41,7 @@ You will get autocomplete suggestions as you type.
 
 
 ## Atom Editor ([Download Workflow](https://github.com/WelcomWeb/alfred-workflows/raw/master/atom/atom.alfredworkflow))
-A workflow for the Atom Editor that works as the ones for Sublime Text. Set your project folder with `at-set` and specify the path for your project folder, and open Atom with a project folder with `at <PROJECT>`.
+A workflow for the Atom Editor that works as the ones for Sublime Text. Set your project folder with `at-set` and specify the path for your project folder, and open Atom with a project folder with `at <PROJECT>`. You can of course also open a custom path.
 
 ![Using 'at'](https://raw.githubusercontent.com/WelcomWeb/alfred-workflows/master/assets/using-at.png)
 
@@ -45,7 +49,7 @@ A workflow for the Atom Editor that works as the ones for Sublime Text. Set your
 
 
 ## Visual Studio Code ([Download Workflow](https://github.com/WelcomWeb/alfred-workflows/raw/master/visual-studio-code/vsc.alfredworkflow))
-A worflow for Visual Studio Code that works as the ones for Sublime Text and Atom. Set your project folder with `vsc-set` and specify the path for your project folder, and open Visual Studio Code with a project folder with `vsc <PROJECT>`.
+A worflow for Visual Studio Code that works as the ones for Sublime Text and Atom. Set your project folder with `vsc-set` and specify the path for your project folder, and open Visual Studio Code with a project folder with `vsc <PROJECT>`. You can of course also open a custom path.
 
 ![Using 'vsc'](https://raw.githubusercontent.com/WelcomWeb/alfred-workflows/master/assets/using-vsc.png)
 
