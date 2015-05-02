@@ -19,7 +19,7 @@ You can also open a custom path, of course;
 
 ![Custom path](https://raw.githubusercontent.com/WelcomWeb/alfred-workflows/master/assets/custom-path-subl.png)
 
-**Note!** This requires Sublime Text 2 to be installed at the default location, i.e. "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl".
+**Note!** This workflow requires Sublime Text 2 to be installed at the default location, i.e. "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl".
 
 
 ## Sublime Text 3 ([Download Workflow](https://github.com/WelcomWeb/alfred-workflows/raw/master/sublime-text-3/sublime-text-3.alfredworkflow))
@@ -37,7 +37,7 @@ You will get autocomplete suggestions as you type. And as with the Sublime Text 
 
 ![Using 'subl'](https://raw.githubusercontent.com/WelcomWeb/alfred-workflows/master/assets/using-subl.png)
 
-**Note!** This requires Sublime Text 3 to be installed at the default location, i.e. "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl".
+**Note!** This workflow requires Sublime Text 3 to be installed at the default location, i.e. "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl".
 
 
 ## Atom Editor ([Download Workflow](https://github.com/WelcomWeb/alfred-workflows/raw/master/atom/atom.alfredworkflow))
@@ -45,7 +45,7 @@ A workflow for the Atom Editor that works as the ones for Sublime Text. Set your
 
 ![Using 'at'](https://raw.githubusercontent.com/WelcomWeb/alfred-workflows/master/assets/using-at.png)
 
-**Note!** This requires Atom to be installed at the default location, i.e. "/Applications/Atom.app/Contents/MacOS/Atom"
+**Note!** This workflow requires Atom to be installed at the default location, i.e. "/Applications/Atom.app/Contents/MacOS/Atom"
 
 
 ## Visual Studio Code ([Download Workflow](https://github.com/WelcomWeb/alfred-workflows/raw/master/visual-studio-code/vsc.alfredworkflow))
@@ -53,7 +53,7 @@ A worflow for Visual Studio Code that works as the ones for Sublime Text and Ato
 
 ![Using 'vsc'](https://raw.githubusercontent.com/WelcomWeb/alfred-workflows/master/assets/using-vsc.png)
 
-**Note!** This requires Visual Studio Code to be installed at the default location, i.e. "/Applications/Visual Studio Code.app/Contents/MacOS/Atom"
+**Note!** This workflow requires Visual Studio Code to be installed at the default location, i.e. "/Applications/Visual Studio Code.app/Contents/MacOS/Atom"
 
 
 ## VirtualBox ([Download Workflow](https://github.com/WelcomWeb/alfred-workflows/raw/master/virtualbox/virtualbox.alfredworkflow))
